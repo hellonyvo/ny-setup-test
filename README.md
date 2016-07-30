@@ -1,2 +1,5 @@
-Testing this readme file
-testing this file
+Ny's Learning How To Code
+
+# Learn
+
+Stay Focused
